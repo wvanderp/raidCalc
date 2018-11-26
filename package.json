@@ -20,19 +20,6 @@
     "url": "https://github.com/wvanderp/raidCalc/issues"
   },
   "homepage": "https://github.com/wvanderp/raidCalc",
-  "devDependencies": {
-    "gulp": "*",
-    "gulp-plumber": "*",
-    "gulp-sass": "*",
-    "gulp-autoprefixer": "*",
-    "gulp-jade": "*",
-    "gulp-imagemin": "*",
-    "browser-sync": "*",
-    "browserify": "*",
-    "vinyl-source-stream": "*"
-  },
-  "dependencies": {
-    "filesize-parser": "git://github.com/patrickkettner/filesize-parser",
-    "jquery": "^2.1.4"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
